@@ -17,8 +17,7 @@
   "devDependencies": {
     "standard-version": "^8.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "prettier": ">=2.0.0"
   },
