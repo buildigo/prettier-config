@@ -1,3 +1,3 @@
-# @buildigo.org/prettier-config
+# @buildigo/prettier-config
 
-Prettier config at Buildigo
+Prettier config at buildigo.

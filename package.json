@@ -1,21 +1,18 @@
 {
-  "name": "@buildigo.org/prettier-config",
+  "name": "@buildigo/prettier-config",
   "version": "1.1.0",
-  "description": "",
+  "description": "Prettier config at buildigo",
   "scripts": {
     "release": "standard-version --tag-prefix='' --releaseCommitMessageFormat='chore(release): {{currentTag}} [skip ci]'"
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:buildigo.org/common/prettier-config.git"
+    "url": "git@github.com:buildigo/prettier-config.git"
   },
-  "publishConfig": {
-    "@buildigo.org:registry": "https://gitlab.com/api/v4/projects/19599431/packages/npm/"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "mathieu.meylan@buildigo.ch",
+  "license": "Apache 2.0",
   "devDependencies": {
-    "standard-version": "^8.0.0"
+    "standard-version": "^9.5.0"
   },
   "dependencies": {},
   "peerDependencies": {
