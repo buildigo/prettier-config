@@ -1,6 +1,6 @@
 {
   "name": "@buildigo/prettier-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Prettier config at buildigo",
   "scripts": {
     "release": "standard-version --tag-prefix='' --releaseCommitMessageFormat='chore(release): {{currentTag}} [skip ci]'"
